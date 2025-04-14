@@ -1,3 +1,5 @@
+## Longest Substring Without Repeating Characters - Medium
+
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
         total = 0
