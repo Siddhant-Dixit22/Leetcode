@@ -9,3 +9,7 @@ class Solution:
                     sol.append(i)
                     sol.append(j)
                     return sol
+                
+
+
+## Brute Force Way, Need to learn and study DSA
